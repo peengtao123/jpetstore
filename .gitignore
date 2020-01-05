@@ -9,5 +9,6 @@ message
 mecab-ipadic*
 *~
 .git
+*.iml
 .idea
 .DS_Store
